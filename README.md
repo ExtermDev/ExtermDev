@@ -5,6 +5,6 @@
  Currently working on mod for tModLoader(Terraria), named: "Fear of the Dark". Main dev.
 *************************************************************************************************************************************************************************
 - 📫 How to reach me: 
-      - Discord: extermination#3237
+      - Discord: extermination#3237 
       - VK: https://vk.com/exterminationjke    
       - Contact me if you will.
