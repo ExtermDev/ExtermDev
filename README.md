@@ -1,7 +1,8 @@
 - Started off with c++
 - CyberSecurity degree
 - Now working on my own projects mostly purposed for devsecops
-- Application Security engeneer :)
+- Application Security engineer :)
+- Used languages: c++/c#/python
 
 *************************************************************************************************************************************************************************
 - 📫 How to reach me: <br />
