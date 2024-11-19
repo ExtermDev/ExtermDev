@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ExtermDev
-- 👀 I’m interested in basicly everything somehow connected with IT.
-- 🌱 I’m currently learning SICP and basic programming. I've done all my univercity projects on C++ and that's my favourite programming language. 
-*************************************************************************************************************************************************************************
- Currently working on mod for tModLoader(Terraria), named: "Fear of the Dark". Main dev.
+- Started off with c++
+- CyberSecurity degree
+- Now working on my own projects purposed mainly for devsecops
+- Application Security engeneer :)
+
 *************************************************************************************************************************************************************************
 - 📫 How to reach me: <br />
       - Discord: extermination#3237 <br />
