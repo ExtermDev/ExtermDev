@@ -1,6 +1,6 @@
 - Started off with c++
 - CyberSecurity degree
-- Now working on my own projects purposed mainly for devsecops
+- Now working on my own projects mostly purposed for devsecops
 - Application Security engeneer :)
 
 *************************************************************************************************************************************************************************
